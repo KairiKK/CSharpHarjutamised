@@ -12,6 +12,7 @@ namespace CTeravHarjutamised
         {
 
             Console.WriteLine("Hello World!!");
+            Console.WriteLine("Tereee!!!");
         }
     }
 }
