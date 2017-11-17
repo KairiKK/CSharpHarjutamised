@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\CTeravHarjutamised\CTeravHarjutamised\bin\Debug\CTeravHarjutamised.exe.config
+C:\Users\Lenovo\source\repos\CTeravHarjutamised\CTeravHarjutamised\bin\Debug\CTeravHarjutamised.exe
+C:\Users\Lenovo\source\repos\CTeravHarjutamised\CTeravHarjutamised\bin\Debug\CTeravHarjutamised.pdb
+C:\Users\Lenovo\source\repos\CTeravHarjutamised\CTeravHarjutamised\obj\Debug\CTeravHarjutamised.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\source\repos\CTeravHarjutamised\CTeravHarjutamised\obj\Debug\CTeravHarjutamised.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CTeravHarjutamised\CTeravHarjutamised\obj\Debug\CTeravHarjutamised.exe
+C:\Users\Lenovo\source\repos\CTeravHarjutamised\CTeravHarjutamised\obj\Debug\CTeravHarjutamised.pdb
